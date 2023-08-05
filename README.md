@@ -3,7 +3,7 @@
 SyncLips is a *lip reading web application designed to accurately decipher spoken words from video footage*. Built upon the powerful LipNet model, this application employs advanced deep learning techniques to analyze and interpret lip movements with remarkable precision.
 
 
-![Screenshot 2023-05-20 020423](https://github.com/aryan7781/SyncLips/assets/77446629/f7ec4591-a643-4800-9cbb-b44ebb02b297)
+![Screenshot 2023-05-20 020423](https://user-images.githubusercontent.com/77446629/239641243-f7ec4591-a643-4800-9cbb-b44ebb02b297.png)
 
 
 
@@ -26,8 +26,6 @@ where FirstSpeaker and SecondSpeaker are integers for the number of speakers to 
 4. ffmpeg -> video file format conversion
 6. opencv -> video capture and frames processing.
 
-### Note: Further Scope
-Implementing dlib for video processing to include all types of videos, including live video input.
 
 ### References
 1. [LipNet: End-to-End Sentence-level Lipreading - Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, Nando de Freitas](https://arxiv.org/abs/1611.01599)
